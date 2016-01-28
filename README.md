@@ -14,3 +14,6 @@ git push
 
 Don't ever do a git commit without the dash m (-m). It opens an editor and you won't be happy when you are in it.
 
+## Success
+
+I pulled my changes down into qux.
