@@ -21,3 +21,4 @@ I pulled my changes down into qux.
 # this
 - first change
 - second change
+- third change
