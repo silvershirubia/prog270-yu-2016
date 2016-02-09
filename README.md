@@ -22,3 +22,4 @@ I pulled my changes down into qux.
 - first change
 - second change
 - third change
+- fourth change
