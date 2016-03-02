@@ -8,3 +8,5 @@
 - [Pic 2](pic2.html)
 - [Pic 3](pic3.html)
 
+## Midterm Link
+** [Midterm](Week07-HTML/index.html) **
