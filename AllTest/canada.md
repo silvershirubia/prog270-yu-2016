@@ -22,9 +22,6 @@ This branch is about to break off<br />
 Forest<br />
 [![/images/canada/2016-02-27_11.04.24-small.jpg](/images/canada/2016-02-27_11.04.24-small.jpg)](/images/canada/2016-02-27_11.04.24.jpg)
 
-Boat<br />
-[![/images/canada/2016-02-27_11.41.35-small.jpg](/images/canada/2016-02-27_11.41.35-small.jpg)](/images/canada/2016-02-27_11.41.35.jpg)
-
 Waterfall<br />
 [![/images/canada/2016-02-27_12.47.09-small.jpg](/images/canada/2016-02-27_12.47.09-small.jpg)](/images/canada/2016-02-27_12.47.09.jpg)
 
