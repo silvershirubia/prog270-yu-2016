@@ -10,6 +10,7 @@
 * [pic1.html](pic1.html)
 * [pic2.html](pic2.html)
 * [pic3.html](pic3.html)
+* [presidents.html](presidents.html)
 * [walkingmap.html](walkingmap.html)
 * [walkingmap2.html](walkingmap2.html)
 * [walkingmap3.html](walkingmap3.html)
