@@ -1,0 +1,5 @@
+* [california.html](california.html)
+* [canada.html](canada.html)
+* [pic1.html](pic1.html)
+* [pic2.html](pic2.html)
+* [pic3.html](pic3.html)
